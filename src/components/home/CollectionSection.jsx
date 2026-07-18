@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 
-import { CollectionContext } from "../../context/CollectionContext";
+import { CollectionContext } from "../../Context/CollectionContext";
 import CollectionCard from "./CollectionCard";
 
 const CollectionSection = () => {

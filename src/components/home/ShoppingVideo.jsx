@@ -4,7 +4,7 @@ import {
   motion,
 } from "framer-motion";
 
-import shoppingVideo from "../../assets/videos/shopping-video.mp4";
+import shoppingVideo from "../../assets/videos/Shopping-Video.mp4";
 
 const ShoppingVideo = () => {
   return (
