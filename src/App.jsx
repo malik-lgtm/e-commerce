@@ -16,7 +16,7 @@ import Signup from "./pages/Signup";
 
 import ShoppingCartProvider from "./Context/ShoppingCartContext";
 import AuthProvider from "./Context/AuthContext";
-import { CollectionProvider } from "./context/CollectionContext";
+import { CollectionProvider } from "./Context/CollectionContext";
 
 function App() {
   return (
